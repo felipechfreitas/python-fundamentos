@@ -25,6 +25,8 @@ Principais conceitos:
 * Função `len()`
 * Entrada de dados com `input()`
 
+---
+
 ### ✅ 02 - Input
 
 Principais conceitos:
@@ -37,6 +39,34 @@ Principais conceitos:
 
 ---
 
+### ✅ 03 - Operadores
+
+Principais conceitos:
+
+* Operadores aritméticos (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
+* Operadores de comparação (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+* Operadores lógicos (`and`, `or`, `not`)
+* Operadores de atribuição (`+=`, `-=`, `*=`, `/=`)
+* Comparação de números
+* Comparação de strings
+* Comparação de valores booleanos
+
+---
+
+### ✅ 04 - Condicionais
+
+Principais conceitos:
+
+* Estrutura `if`
+* Estrutura `if/else`
+* Estrutura `if/elif/else`
+* Condicionais com strings
+* Operadores lógicos em condições
+* Condicionais aninhadas
+* Tomada de decisão baseada em regras
+
+---
+
 ## Estrutura Atual
 
 ```text
@@ -44,6 +74,8 @@ python-fundamentos/
 │
 ├── 01-variaveis.py
 ├── 02-input.py
+├── 03-operadores.py
+├── 04-condicionais.py
 └── README.md
 ```
 
@@ -51,13 +83,12 @@ python-fundamentos/
 
 ## Próximos Conteúdos
 
-* ⏳ 03-condicionais.py
-* ⏳ 04-loops.py
-* ⏳ 05-funcoes.py
-* ⏳ 06-listas.py
-* ⏳ 07-try_except.py
-* ⏳ 08-dicionarios.py
-* ⏳ 09-arquivos.py
+* ⏳ 05-loops.py
+* ⏳ 06-funcoes.py
+* ⏳ 07-listas.py
+* ⏳ 08-try_except.py
+* ⏳ 09-dicionarios.py
+* ⏳ 10-arquivos.py
 
 ---
 
@@ -65,10 +96,10 @@ python-fundamentos/
 
 Criar uma biblioteca pessoal de exemplos e anotações em Python para:
 
-* Revisar conceitos rapidamente.
-* Consultar exemplos práticos.
-* Consolidar o aprendizado da linguagem.
-* Acompanhar minha evolução como desenvolvedor.
+* Revisar conceitos rapidamente
+* Consultar exemplos práticos
+* Consolidar o aprendizado da linguagem
+* Acompanhar minha evolução como desenvolvedor
 
 ---
 
@@ -79,3 +110,11 @@ Felipe Chagas Freitas
 * Graduado em Sistemas de Informação
 * Estudante de Desenvolvimento de Software
 * Foco atual: Python, Git e GitHub
+
+---
+
+## Status do Projeto
+
+📚 Em constante evolução.
+
+Novos conteúdos serão adicionados conforme avanço nos estudos de Python.
