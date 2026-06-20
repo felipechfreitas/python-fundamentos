@@ -67,15 +67,157 @@ Principais conceitos:
 
 ---
 
+### ✅ 05 - Strings
+
+Principais conceitos:
+
+* Criação de strings
+* Concatenação
+* F-Strings
+* Função `len()`
+* Acesso por índice
+* Métodos (`upper()`, `lower()`, `capitalize()`)
+* Remoção de espaços com `strip()`
+* Substituição com `replace()`
+* Verificação com `in`
+* Separação de texto com `split()`
+
+---
+
+### ✅ 06 - For
+
+Principais conceitos:
+
+* Estrutura do laço `for`
+* Percorrendo listas
+* Percorrendo strings
+* Utilização de `range()`
+* Contadores automáticos
+* Loops aninhados
+* Iteração controlada
+
+---
+
+### ✅ 07 - Funções
+
+Principais conceitos:
+
+* Criação de funções com `def`
+* Parâmetros
+* Retorno com `return`
+* Reutilização de código
+* Funções que retornam valores booleanos
+* Funções com listas
+* Organização e boas práticas
+
+---
+
+### ✅ 08 - Listas
+
+Principais conceitos:
+
+* Criação de listas
+* Acesso por índice
+* Alteração de elementos
+* Inclusão de itens
+* Remoção de itens
+* Percorrendo listas com `for`
+* Verificação com `in`
+* Tamanho com `len()`
+
+---
+
+### ✅ 09 - Enumerate
+
+Principais conceitos:
+
+* Utilização do `enumerate()`
+* Índice e valor simultaneamente
+* Controle de numeração
+* Parâmetro `start`
+* Uso em menus e listagens
+
+---
+
+### ✅ 10 - Métodos de Lista
+
+Principais conceitos:
+
+* `append()`
+* `insert()`
+* `remove()`
+* `pop()`
+* `sort()`
+* `reverse()`
+* `count()`
+* `index()`
+* `clear()`
+
+---
+
+### ✅ 11 - While
+
+Principais conceitos:
+
+* Estrutura do laço `while`
+* Controle por condição
+* Incremento de variáveis
+* Loops infinitos
+* Utilização do `break`
+* Utilização do `continue`
+* Acumuladores e contadores
+
+---
+
+### ✅ 12 - Try / Except
+
+Principais conceitos:
+
+* Tratamento de exceções
+* Estrutura `try`
+* Estrutura `except`
+* `ValueError`
+* `ZeroDivisionError`
+* Uso de `else`
+* Uso de `finally`
+* Boas práticas de tratamento de erros
+
+---
+
+### ✅ 13 - Dicionários
+
+Principais conceitos:
+
+* Estrutura chave:valor
+* Criação de dicionários
+* Acesso a valores
+* Método `get()`
+* Alteração de valores
+* Inclusão de novos dados
+* Remoção de itens
+* `keys()`, `values()` e `items()`
+* Iteração em dicionários
+
+---
+
 ## Estrutura Atual
 
 ```text
 python-fundamentos/
 │
-├── 01-variaveis.py
-├── 02-input.py
-├── 03-operadores.py
-├── 04-condicionais.py
+├── 01-variaveis/
+├── 02-input/
+├── 03-operadores/
+├── 04-condicionais/
+├── 05-strings/
+├── 06-for/
+├── 07-funcoes/
+├── 08-listas/
+├── 09-enumerate/
+├── 10-listas_metodos/
+├── 11-while/
+├── 12-try_except/
+├── 13-dicionarios/
 └── README.md
 ```
 
@@ -83,12 +225,11 @@ python-fundamentos/
 
 ## Próximos Conteúdos
 
-* ⏳ 05-loops.py
-* ⏳ 06-funcoes.py
-* ⏳ 07-listas.py
-* ⏳ 08-try_except.py
-* ⏳ 09-dicionarios.py
-* ⏳ 10-arquivos.py
+* ⏳ 14-tuplas.py
+* ⏳ 15-modulos.py
+* ⏳ 16-arquivos.py
+* ⏳ 17-json.py
+* ⏳ 18-poo.py
 
 ---
 
@@ -117,4 +258,4 @@ Felipe Chagas Freitas
 
 📚 Em constante evolução.
 
-Novos conteúdos serão adicionados conforme avanço nos estudos de Python.
+Atualmente estudando os fundamentos da linguagem Python e construindo uma biblioteca pessoal de consulta rápida para reforço diário dos conceitos.
