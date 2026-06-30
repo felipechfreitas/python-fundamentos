@@ -200,6 +200,52 @@ Principais conceitos:
 
 ---
 
+---
+
+### ✅ 14 - Tuplas
+
+Principais conceitos:
+
+* Criação de tuplas
+* Diferenças entre listas e tuplas
+* Acesso por índice
+* Iteração com `for`
+* Método `count()`
+* Método `index()`
+* Imutabilidade
+
+---
+
+### ✅ 15 - Módulos
+
+Principais conceitos:
+
+* Criação de módulos
+* Importação com `import`
+* Importação de funções específicas
+* Organização de código
+* Reutilização de funções
+* Estrutura de projetos Python
+* Geração automática da pasta `__pycache__`
+
+---
+
+### ✅ 16 - Arquivos
+
+Principais conceitos:
+
+* Abertura de arquivos com `open()`
+* Modos de abertura (`r`, `w`, `a`, `x`)
+* Leitura com `read()`
+* Leitura com `readline()`
+* Leitura com `readlines()`
+* Escrita com `write()`
+* Utilização do `with`
+* Tratamento de erros com `FileNotFoundError`
+* Boas práticas na manipulação de arquivos
+
+---
+
 ## Estrutura Atual
 
 ```text
@@ -218,6 +264,9 @@ python-fundamentos/
 ├── 11-while/
 ├── 12-try_except/
 ├── 13-dicionarios/
+├── 14-tuplas/
+├── 15-modulos/
+├── 16-arquivos/
 └── README.md
 ```
 
@@ -225,11 +274,12 @@ python-fundamentos/
 
 ## Próximos Conteúdos
 
-* ⏳ 14-tuplas.py
-* ⏳ 15-modulos.py
-* ⏳ 16-arquivos.py
+## Próximos Conteúdos
+
 * ⏳ 17-json.py
 * ⏳ 18-poo.py
+* ⏳ 19-lambda.py
+* ⏳ 20-compreensao_listas.py
 
 ---
 
