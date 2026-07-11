@@ -1,0 +1,11 @@
+{
+    "nome": "Felipe",
+    "idade": 32,
+    "cidade": "Guarulhos",
+    "profissao": "Analista Fiscal",
+    "skills": [
+        "Python",
+        "SQL",
+        "Power BI"
+    ]
+}

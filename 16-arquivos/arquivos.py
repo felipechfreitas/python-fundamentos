@@ -159,7 +159,7 @@ except FileNotFoundError:
 # O que o "with" faz?
 # ==============================
 
-# O comando "with" abre o arquivo e garante que ele será fechado
+# O comando "with" abre ffo arquivo e garante que ele será fechado
 # automaticamente ao final do bloco de código, mesmo que ocorra um erro.
 #
 # Sem o "with", seria necessário fazer:
